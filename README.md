@@ -19,5 +19,5 @@ https://ft.unesa.ac.id
 https://unesa.ac.id
 
 # Poster
-![WhatsApp Image 2023-11-10 at 09 22 51](https://github.com/Adit2205/Pengaduanku/assets/150405854/46338b40-2f8d-4f6b-b956-f170f32e939a)
+![WhatsApp Image 2023-11-10 at 09 22 51](https://github.com/Adit2205/Pengaduanku/assets/150405854/a5b32a0b-81bc-47bb-8481-4f058def9bf6)
 
