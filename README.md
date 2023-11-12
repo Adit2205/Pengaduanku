@@ -10,16 +10,21 @@ Aplikasi Pengaduanku adalah aplikasi mobile berbasis android yang dibuat untuk m
 6. Riwayat pengaduan pengguna, untuk melihat semua pengaduan pengguna / masyarakat
 # Tampilan Aplikasi
 ![WhatsApp Image 2023-11-12 at 15 18 59](https://github.com/Adit2205/Pengaduanku/assets/150405854/0bdf93b9-dcf5-4a3a-bbfc-253e9831449a)
+
+
 ![WhatsApp Image 2023-11-12 at 15 19 00](https://github.com/Adit2205/Pengaduanku/assets/150405854/0073f5af-6420-45ac-b301-da460dccdec4)
+
+
 ![WhatsApp Image 2023-11-12 at 15 19 00 (1)](https://github.com/Adit2205/Pengaduanku/assets/150405854/333dbefe-bc79-419e-a06d-7338085e7899)
+
+
 ![WhatsApp Image 2023-11-12 at 15 19 01](https://github.com/Adit2205/Pengaduanku/assets/150405854/1808ecb1-106e-4aa1-88e3-d4ba9eeb44c9)
+
+
 ![WhatsApp Image 2023-11-12 at 15 19 02](https://github.com/Adit2205/Pengaduanku/assets/150405854/68497588-7113-4405-9ca1-e3b00cc16ad4)
+
+
 ![WhatsApp Image 2023-11-12 at 15 19 03](https://github.com/Adit2205/Pengaduanku/assets/150405854/cafdc724-cac5-455e-96d7-0d51cc850d54)
-
-
-
-
-
 
 # Kelompok 7 PTI A 2022
 Anggota Kelompok :
